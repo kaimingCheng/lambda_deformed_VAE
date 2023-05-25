@@ -1,1 +1,1 @@
-# -alpha--VAE-
+# lambda_deformed_VAE

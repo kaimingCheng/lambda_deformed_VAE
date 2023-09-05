@@ -1,1 +1,2 @@
-# lambda_deformed_VAE
+# VAE trained with lambda deformed evidence lower bound
+
